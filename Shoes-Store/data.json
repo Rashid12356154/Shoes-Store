@@ -1,0 +1,162 @@
+[
+    {
+        "id":1,
+        "img":"./image/new1.png",
+        "categorie":"new arrival",
+        "name":"nike air force 1",
+        "title":"classic style",
+        "newprice":90,
+        "price":120,
+        "dis":"The Nike Air Force 1 is an iconic sneaker that blends timeless style  leather upper and cushioned sole, its perfect for all day war and versatille enough to match any look"
+    },
+    {
+        "id":2,
+        "img":"./image/new2.png",
+        "categorie":"new arrival",
+        "name":"nike air max 90",
+        "title":"timeless air cushioning",
+        "newprice":120,
+        "price":140,
+        "dis":"With a design that's stood the test of time, the Nike Air Max 90 offers classic appeal combined with innovative air-sole cushioning for maximum comfort."
+    },
+    {
+        "id":3,
+        "img":"./image/new3.png",
+        "categorie":"new arrival",
+        "name":"nike air zoom pegasus",
+        "title":"speed and support for every runner",
+        "newprice":120,
+        "price":130,
+        "dis":"Disgned for runner who crave speed and support, the Nike Air Zoom Pegasus features responsive zoom air cushioning and lightweight mesh upper, making it the perfect companion for any distance."
+    },
+    {
+        "id":4,
+        "img":"./image/new4.png",
+        "categorie":"new arrival",
+        "name":"nike blazer  mid 77",
+        "title":"Vintage Vibes with Mordern comfort",
+        "newprice":100,
+        "price":110,
+        "dis":"Disgned for runner who crave speed and support, the Nike Air Zoom Pegasus features responsive zoom air cushioning and lightweight mesh upper, making it the perfect companion for any distance."
+    },
+    {
+        "id":5,
+        "img":"./image/new5.png",
+        "categorie":"new arrival",
+        "name":"nike dunk low",
+        "title":"Retro court style for the street",
+        "newprice":120,
+        "price":150,
+        "dis":"Disgned for runner who crave speed and support, the Nike Air Zoom Pegasus features responsive zoom air cushioning and lightweight mesh upper, making it the perfect companion for any distance."
+    },
+    {
+        "id":6,
+        "img":"./image/new6.png",
+        "categorie":"new arrival",
+        "name":"nike react  infinity run",
+        "title":"Infinity energy endless runs",
+        "newprice":160,
+        "price":170,
+        "dis":"Disgned for runner who crave speed and support, the Nike Air Zoom Pegasus features responsive zoom air cushioning and lightweight mesh upper, making it the perfect companion for any distance."
+    },
+    {
+        "id":7,
+        "img":"./image/new7.png",
+        "categorie":"new arrival",
+        "name":"nike joyride run",
+        "title":"Cushioned Beads for a custom fit",
+        "newprice":180,
+        "price":200,
+        "dis":"Disgned for runner who crave speed and support, the Nike Air Zoom Pegasus features responsive zoom air cushioning and lightweight mesh upper, making it the perfect companion for any distance."
+    },
+    {
+        "id":8,
+        "img":"./image/new8.png",
+        "categorie":"new arrival",
+        "name":"nike vapormax",
+        "title":"Air cushioned innovation",
+        "newprice":180,
+        "price":220,
+        "dis":"Disgned for runner who crave speed and support, the Nike Air Zoom Pegasus features responsive zoom air cushioning and lightweight mesh upper, making it the perfect companion for any distance."
+    },
+    {
+        "id":9,
+        "img":"./image/pr1.png",
+        "categorie":"new collection",
+        "name":"nike cortez",
+        "title":"The iconic runner with a retro edge",
+        "newprice":70,
+        "price":85,
+        "dis":"Disgned for runner who crave speed and support, the Nike Air Zoom Pegasus features responsive zoom air cushioning and lightweight mesh upper, making it the perfect companion for any distance."
+    },   
+    {
+        "id":10,
+        "img":"./image/pr2.png",
+        "categorie":"new collection",
+        "name":"nike lebron witness",
+        "title":"Dynamic stability for power player",
+        "newprice":110,
+        "price":120,
+        "dis":"Disgned for runner who crave speed and support, the Nike Air Zoom Pegasus features responsive zoom air cushioning and lightweight mesh upper, making it the perfect companion for any distance."
+    } ,
+    {
+        "id":11,
+        "img":"./image/pr3.png",
+        "categorie":"new collection",
+        "name":"nike phantom GT",
+        "title":"Precision and control  for the field",
+        "newprice":200,
+        "price":250,
+        "dis":"Disgned for runner who crave speed and support, the Nike Air Zoom Pegasus features responsive zoom air cushioning and lightweight mesh upper, making it the perfect companion for any distance."
+    },
+    {
+        "id":12,
+        "img":"./image/pr4.png",
+        "categorie":"new collection",
+        "name":"nike air  huarache",
+        "title":"Look in fit with heritage",
+        "newprice":110,
+        "price":120,
+        "dis":"Disgned for runner who crave speed and support, the Nike Air Zoom Pegasus features responsive zoom air cushioning and lightweight mesh upper, making it the perfect companion for any distance."
+    },
+    {
+        "id":13,
+        "img":"./image/pr5.png",
+        "categorie":"new collection",
+        "name":"nike mercurial superfly",
+        "title":"Speed focused design for quick moves",
+        "newprice":250,
+        "price":300,
+        "dis":"Disgned for runner who crave speed and support, the Nike Air Zoom Pegasus features responsive zoom air cushioning and lightweight mesh upper, making it the perfect companion for any distance."
+    },
+    {
+        "id":14,
+        "img":"./image/pr6.png",
+        "categorie":"new collection",
+        "name":"nike kyrie infinity",
+        "title":"Quick moves with superior grip",
+        "newprice":120,
+        "price":140,
+        "dis":"Disgned for runner who crave speed and support, the Nike Air Zoom Pegasus features responsive zoom air cushioning and lightweight mesh upper, making it the perfect companion for any distance."
+    },
+    {
+        "id":15,
+        "img":"./image/pr7.png",
+        "categorie":"new collection",
+        "name":"nike zoomX invincible run",
+        "title":"Maximum cushioning for long  distances",
+        "newprice":180,
+        "price":200,
+        "dis":"Disgned for runner who crave speed and support, the Nike Air Zoom Pegasus features responsive zoom air cushioning and lightweight mesh upper, making it the perfect companion for any distance."
+    },
+    {
+        "id":16,
+        "img":"./image/pr8.png",
+        "categorie":"new collection",
+        "name":"nike free run",
+        "title":"Natural flexibility for barefoot fell",
+        "newprice":90,
+        "price":100,
+        "dis":"Disgned for runner who crave speed and support, the Nike Air Zoom Pegasus features responsive zoom air cushioning and lightweight mesh upper, making it the perfect companion for any distance."
+    }
+]
